@@ -1,4 +1,4 @@
-# To run visual studio code in remote server 
+## To run visual studio code in remote server 
 
 Please follow this [repo](https://github.com/cdr/code-server)
 To have systemd start code-server now and restart on boot:

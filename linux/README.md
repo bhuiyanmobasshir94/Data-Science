@@ -23,17 +23,17 @@ Install Linux Screen on Ubuntu and Debian:
 sudo apt update
 sudo apt install screen
 ```
-### Detach from Linux Screen Session
+#### Detach from Linux Screen Session
 You can detach from the screen session at any time by typing:
 ```
 Ctrl+a d
 ```
 The program running in the screen session will continue to run after you detach from the session.
 
-### Reattach to a Linux Screen
+#### Reattach to a Linux Screen
 To resume your screen session use the following command:
 ```
-screen -r
+screen -r [id]
 ```
 In case you have multiple screen sessions running on your machine, you will need to append the screen session ID after the `r`switch.
 

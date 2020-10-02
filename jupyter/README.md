@@ -6,10 +6,35 @@ conda install -c conda-forge jupyterlab
 ```
 conda install -c conda-forge notebook
 ```
-## installing voila
+## Installing voila
 ```
 conda install -c conda-forge voila
 ```
+## Installing ipywidgets
+```
+conda install -c conda-forge ipywidgets
+```
+## Insatalling jupyter lab extension
+```
+conda install -c conda-forge nodejs
+```
+```
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
+## Installing with multiple environment
+```
+conda install -n base -c conda-forge widgetsnbextension
+conda install -n py36 -c conda-forge ipywidgets
+```
+## Installing with pip
+```
+pip install ipywidgets
+jupyter nbextension enable --py widgetsnbextension
+```
+```
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+```
+
 ## How to run jupyter notebook in remote server and do the port forwarding in local machine
 
 #### Step 1: Run Jupyter Notebook from remote machine

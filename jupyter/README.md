@@ -1,3 +1,15 @@
+## Installing jupyter lab
+```
+conda install -c conda-forge jupyterlab
+```
+## Installing jupyter notebook
+```
+conda install -c conda-forge notebook
+```
+## installing voila
+```
+conda install -c conda-forge voila
+```
 ## How to run jupyter notebook in remote server and do the port forwarding in local machine
 
 #### Step 1: Run Jupyter Notebook from remote machine

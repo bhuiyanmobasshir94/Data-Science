@@ -1,4 +1,4 @@
-# Data Science Base
+# Data Science
 Showcasing of my data science research, experiment and development
 
 While working with data science in remote server I usually use jupyter notebook and vscode separately with ssh tunneling

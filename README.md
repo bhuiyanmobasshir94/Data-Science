@@ -11,6 +11,8 @@ For jupyter notebook with port `8888`
 ```
 ssh -N -f -L localhost:8881:localhost:8888 uname@ip
 ```
+Kaggle [API](https://github.com/Kaggle/kaggle-api)
+
 ### Resources
 | Resource	| URL	|
 |-	|-	|

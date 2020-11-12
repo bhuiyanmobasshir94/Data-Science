@@ -13,6 +13,11 @@ ssh -N -f -L localhost:8881:localhost:8888 uname@ip
 ```
 Kaggle [API](https://github.com/Kaggle/kaggle-api)
 
+To make kaggle api key not readable to other users 
+```
+chmod 600 /home/user/.kaggle/kaggle.json
+```
+
 ### Resources
 | Resource	| URL	|
 |-	|-	|

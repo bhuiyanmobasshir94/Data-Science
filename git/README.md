@@ -24,3 +24,9 @@ Note that in most cases the remote name is origin. In such a case you'll have to
 ```
 $ git push -d origin <branch_name>
 ```
+
+### Git config
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```

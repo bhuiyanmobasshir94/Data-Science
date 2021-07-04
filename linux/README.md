@@ -1,3 +1,20 @@
+While working with data science in remote server I usually use jupyter notebook and vscode separately with ssh tunneling
+
+For vscode with port `8080`
+```
+ssh -N -f -L localhost:8882:localhost:8080 uname@ip
+```
+For jupyter notebook with port `8888`
+```
+ssh -N -f -L localhost:8881:localhost:8888 uname@ip
+```
+Kaggle [API](https://github.com/Kaggle/kaggle-api)
+
+To make kaggle api key not readable to other users 
+```
+chmod 600 /home/user/.kaggle/kaggle.json
+```
+
 # Linux Commands Directory
 
 ## 5 commands to check memory usage on Linux

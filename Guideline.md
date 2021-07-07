@@ -1,40 +1,10 @@
-### Data Science Life Cycle
-  * Data Analysis
-    * Feature Engineering
-    * Data Wrangling
-    * EDA
-  * Programming language
-    * Python
-    * R
-    * Java
-  * Machine Learning
-    * Classification
-    * Regression
-    * Reinforcement learning
-    * Deep Learning 
-    * Dimentionality Reduction
-    * Clustering
-  * Data Visualization
-    * Tableau
-    * PowerBI
-    * Matplotlib
-    * ggplot
-    * Seaborn
-  * Math
-    * Statistics
-    * Linear Algebra
-    * Differential Calculus
-  * Web Scraping
-    * Beautiful Soap
-    * Scrapy
-    * URLLIB
-  * Deploy 
-    * AWS
-    * Azure
-    * GCP
-  * IDE
-    * VScode
-    * Pycharm
-    * Jupyter
-    * Spyder
-    * Colaboratory
+# Bucket List
+
+## Statistics
+1. [Statistics basics by Statquest playlist](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+2. [Seeing Theory](https://seeing-theory.brown.edu/)
+3. [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+
+## Programming
+1. [Python programming tutorials by Corey Schafer playlist](https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+

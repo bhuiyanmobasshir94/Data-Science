@@ -8,3 +8,6 @@
 | Top Marks for Student Kaggler in Bengali.AI; A Winner’s Interview with Linsho Kaku | [see here](https://medium.com/kaggle-blog/top-marks-for-student-kaggler-in-bengali-ai-a-winners-interview-with-linsho-kaku-dd321b324c74) |
 | How Kaggle Makes GPUs Accessible to 5 Million Data Scientists | [see here](https://news.developer.nvidia.com/how-kaggle-makes-gpus-accessible-to-5-million-data-scientists/) |
 | Bengali.AI first place solution | [see here](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984?utm_medium=blog&utm_source=medium&utm_campaign=bengaliai-1stplace-blog) |
+
+### Curated Resources
+1. [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)

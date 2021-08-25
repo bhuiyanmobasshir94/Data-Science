@@ -19,3 +19,9 @@
 ### Data Dashboard and Visualization
 1. [Atoti](https://www.atoti.io/)
 2. [Streamlit](https://streamlit.io/)
+3. [Altair-viz](https://altair-viz.github.io/)
+4. [Vega](https://vega.github.io/vega/)
+5. [Vega-lite](https://vega.github.io/vega-lite/)
+6. [Bokeh](https://bokeh.org/)
+7. [Deck.gl](https://deckgl.readthedocs.io/en/latest/)
+8. [Plotly](https://plotly.com/)

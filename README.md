@@ -25,3 +25,4 @@
 6. [Bokeh](https://bokeh.org/)
 7. [Deck.gl](https://deckgl.readthedocs.io/en/latest/)
 8. [Plotly](https://plotly.com/)
+9. [Data & Measurement - ThinkwithGoogle](https://www.thinkwithgoogle.com/intl/en-apac/marketing-strategies/data-and-measurement/?utm_source=twg_paid_gsn&utm_medium=paidsearch&utm_campaign=twg_paid_gsn&utm_medium=cpc&utm_source=Google&utm_team=twg-apac&utm_campaign=202011-yisq42020-vn-en&gclid=CjwKCAjw1JeJBhB9EiwAV612y-bX3gNZuVeP03dn4pu6NXMqrp2vxqSh_ARx5xF9dNR1sfliH-2k5RoCuuEQAvD_BwE&gclsrc=aw.ds)

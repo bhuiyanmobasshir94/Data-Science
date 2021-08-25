@@ -15,3 +15,4 @@
 1. [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 2. [Handbook of regression modeling in people analytics](https://peopleanalytics-regression-book.org/)
 3. [Stat learning - second edition](https://www.statlearning.com/) - [website](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
+4. [Atoti for data visualization](https://www.atoti.io/)

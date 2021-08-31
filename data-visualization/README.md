@@ -1,0 +1,5 @@
+1. [Automate Exploratory Data](https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/)
+2. [Bokeh](https://realpython.com/python-data-visualization-bokeh/)
+3. [pandas plot](https://realpython.com/pandas-plot-python/)
+4. [tips-for-automating-eda-using-pandas-profiling-sweetviz-and-autoviz-in-python](https://analyticsindiamag.com/tips-for-automating-eda-using-pandas-profiling-sweetviz-and-autoviz-in-python/)
+5. [~](https://www.freecodecamp.org/news/how-to-create-auto-updating-data-visualizations-in-python-with-matplotlib-and-aws/)

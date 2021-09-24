@@ -15,7 +15,8 @@
 1. [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 2. [Handbook of regression modeling in people analytics](https://peopleanalytics-regression-book.org/)
 3. [Stat learning - second edition](https://www.statlearning.com/) - [website](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
-4. [INTRODUCTION TO SPACY 3](http://spacy.pythonhumanities.com/intro.html)
+4. [Essential math for data science](https://hadrienj.github.io/tags/#essential-math)
+5. [INTRODUCTION TO SPACY 3](http://spacy.pythonhumanities.com/intro.html)
 
 ### Data Dashboard and Visualization
 1. [Atoti](https://www.atoti.io/)

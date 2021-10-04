@@ -12,6 +12,7 @@
 | Pandas comparison with SQL | [see here](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html) |
 
 ### Curated Resources
+0. [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 1. [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 2. [Handbook of regression modeling in people analytics](https://peopleanalytics-regression-book.org/)
 3. [Stat learning - second edition](https://www.statlearning.com/) - [website](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)

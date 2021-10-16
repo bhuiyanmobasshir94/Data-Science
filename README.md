@@ -14,7 +14,7 @@
 ### Curated Resources
 0. [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/) - [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa)
 1. [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
-2. [Handbook of regression modeling in people analytics](https://peopleanalytics-regression-book.org/)
+2. [Handbook of regression modeling in people analytics](https://peopleanalytics-regression-book.org/) - [2nd part](https://ona-book.org/)
 3. [Stat learning - second edition](https://www.statlearning.com/) - [website](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 4. [Essential math for data science](https://hadrienj.github.io/tags/#essential-math) - [website](https://www.essentialmathfordatascience.com/)
 5. [INTRODUCTION TO SPACY 3](http://spacy.pythonhumanities.com/intro.html)

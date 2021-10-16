@@ -3,3 +3,4 @@
 3. [pandas plot](https://realpython.com/pandas-plot-python/)
 4. [tips-for-automating-eda-using-pandas-profiling-sweetviz-and-autoviz-in-python](https://analyticsindiamag.com/tips-for-automating-eda-using-pandas-profiling-sweetviz-and-autoviz-in-python/)
 5. [~](https://www.freecodecamp.org/news/how-to-create-auto-updating-data-visualizations-in-python-with-matplotlib-and-aws/)
+6. [BBC](https://bbc.github.io/rcookbook/)

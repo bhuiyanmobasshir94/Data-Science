@@ -2,3 +2,4 @@
 1. [The Complete Interactive Power BI Visualization Guide](https://iterationinsights.com/article/power-bi-visualization-guide/)
 2. [Selecting Appropriate Data Visualization with PowerBI](https://www.softcrylic.com/blogs/data-visualization-with-powerbi/)
 3. [Power BI Visuals List and Chart Types](https://mindmajix.com/power-bi-visualization-types)
+4. [Microsoft Learn](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)

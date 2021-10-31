@@ -4,3 +4,4 @@
 3. [Power BI Visuals List and Chart Types](https://mindmajix.com/power-bi-visualization-types)
 4. [power BI with Microsoft Learn](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
 5. [Become a Power BI data analyst](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
+6. [PowerBI Microsoft Docs](https://docs.microsoft.com/en-us/power-bi/)

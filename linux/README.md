@@ -17,6 +17,10 @@ chmod 600 /home/user/.kaggle/kaggle.json
 
 # Linux Commands Directory
 
+## memory usage
+```
+ df -ht ext4
+```
 ## 5 commands to check memory usage on Linux
 Ref: [Resource](https://www.binarytides.com/linux-command-check-memory-usage/) 
 ```

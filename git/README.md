@@ -1,3 +1,10 @@
+Force "git pull" to overwrite local files
+```
+git fetch --all
+git reset --hard HEAD
+git pull
+```
+
 Assuming, have a git repository and working with a team some frequent commands to fetch or pull updates, rebase with desired branch and push the works.
 
 ```git

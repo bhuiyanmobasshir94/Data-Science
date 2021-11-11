@@ -62,6 +62,10 @@ To find the session ID list the current running screen sessions with:
 ```
 screen -ls
 ```
+To kill session 
+```
+screen -XS <session-id> quit
+```
 To kill a process running in a port 
 ```
 sudo kill -9 `sudo lsof -t -i:{PORT_NUMBER}`

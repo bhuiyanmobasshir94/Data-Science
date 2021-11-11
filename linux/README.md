@@ -1,3 +1,7 @@
+Counting on gzip file without writing on disk
+```
+gunzip -c file.gz | wc --bytes
+```
 While working with data science in remote server I usually use jupyter notebook and vscode separately with ssh tunneling
 
 For vscode with port `8080`

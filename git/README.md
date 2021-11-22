@@ -37,3 +37,8 @@ $ git push -d origin <branch_name>
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
+
+### Git cache remove
+```
+git rm --cached file_name
+```

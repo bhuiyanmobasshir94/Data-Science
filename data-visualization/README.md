@@ -5,3 +5,4 @@
 5. [~](https://www.freecodecamp.org/news/how-to-create-auto-updating-data-visualizations-in-python-with-matplotlib-and-aws/)
 6. [BBC](https://bbc.github.io/rcookbook/)
 7. [Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)
+8. [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)

@@ -6,3 +6,4 @@
 6. [BBC](https://bbc.github.io/rcookbook/)
 7. [Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)
 8. [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
+9. [textvis.lnu.se](https://textvis.lnu.se/)

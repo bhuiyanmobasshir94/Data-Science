@@ -3,3 +3,4 @@
 3. [Simply Stats](https://simplystatistics.org/)
 4. [CS 109: Probability for Computer Scientists, Summer 2021](http://web.stanford.edu/class/cs109/)
 5. [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb)
+6. [Introduction to Probability for Data Science](https://probability4datascience.com/)

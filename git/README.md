@@ -41,4 +41,6 @@ $ git config --global user.email johndoe@example.com
 ### Git cache remove
 ```
 git rm --cached file_name
+git rm -rf --cached .
+git add .
 ```

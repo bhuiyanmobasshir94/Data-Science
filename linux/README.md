@@ -4,6 +4,8 @@ gunzip -c file.gz | wc --bytes
 ```
 While working with data science in remote server I usually use jupyter notebook and vscode separately with ssh tunneling
 
+VSCode Server install - [1](https://www.how2shout.com/linux/install-code-server-for-vs-code-on-ubuntu-22-04-or-20-04-lts/)
+
 For vscode with port `8080`
 ```
 ssh -N -f -L localhost:8882:localhost:8080 uname@ip

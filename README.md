@@ -20,6 +20,7 @@
 5. [INTRODUCTION TO SPACY 3](http://spacy.pythonhumanities.com/intro.html)
 
 ### Data Dashboard and Visualization
+0. [Facets](https://pair-code.github.io/facets/)
 1. [Atoti](https://www.atoti.io/)
 2. [Streamlit](https://streamlit.io/)
 3. [Altair-viz](https://altair-viz.github.io/)

@@ -35,3 +35,6 @@
 ### Data Sources
 1. [Harvard Dataverse](https://dataverse.harvard.edu/)
 2. [ICPSR](https://www.icpsr.umich.edu/web/pages/)
+
+### Maths 
+1. [Primers • Math](https://aman.ai/primers/math/#plotting-vectors)

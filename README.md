@@ -38,3 +38,6 @@
 
 ### Maths 
 1. [Primers • Math](https://aman.ai/primers/math/#plotting-vectors)
+
+### Prompt Engineering
+1. [Prompt Engineering](http://mohitmayank.com/a_lazy_data_science_guide/natural_language_processing/prompt_engineering/)
